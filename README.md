@@ -1,4 +1,4 @@
-<img width="576" alt="image" src="https://github.com/user-attachments/assets/07505e4b-b688-475c-b24f-2f9e6c5abb7d" /># Correos-a-lista-PowerAutomate
+# Correos-a-lista-PowerAutomate
 Flujo para transformar correos de cambios que suceden constante a las diferentes apis que se disparan en automático, en elementos de una lista en un sharepoint.
 
 <div align = "center">
